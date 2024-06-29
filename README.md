@@ -1,1 +1,1 @@
-# octanet-internship-task1
+this is a responsive landpage using html & css.
